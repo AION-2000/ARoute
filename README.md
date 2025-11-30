@@ -49,8 +49,6 @@ This project showcases a complete development workflow—from clean architecture
 
 ## 🎬 Demo
 
-> **Note:** Replace with actual screenshots or GIF of your app in action
-
 ```
 [Place demo GIF or screenshots here]
 ```
