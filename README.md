@@ -133,7 +133,7 @@ ARoute/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/aroute.git
+   git clone https://github.com/AION-2000/aroute.git
    cd ARoute
    ```
 
@@ -247,8 +247,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Made with ❤️ by [Your Name](https://github.com/your-username)**
-
-[Report Bug](https://github.com/your-username/aroute/issues) • [Request Feature](https://github.com/your-username/aroute/issues)
+**Made with ❤️ by Shihab Shahriar Aion (https://github.com/yAION-2000)**
+[Report Bug](https://github.com/AION-2000/aroute/issues) • [Request Feature](https://github.com/AION-2000/aroute/issues)
 
 </div>
