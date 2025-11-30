@@ -49,13 +49,9 @@ This project showcases a complete development workflow—from clean architecture
 
 ## 🎬 Demo
 
-```
+
 ![WhatsApp Image 2025-11-30 at 6 22 41 PM](https://github.com/user-attachments/assets/9ab1d812-9552-419e-89c3-67f6b2b716f2) ![WhatsApp Image 2025-11-30 at 6 22 43 PM](https://github.com/user-attachments/assets/a8e37606-7f39-4c48-afad-f03a1383a668) ![WhatsApp Image 2025-11-30 at 6 22 42 PM](https://github.com/user-attachments/assets/27905432-6087-47af-8dbe-71761a385118)
 
-
-
-
-```
 
 ---
 
