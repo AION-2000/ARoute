@@ -131,7 +131,7 @@ ARoute/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AION-2000/aroute.git
+   git clone https://github.com/AION-2000/Aroute.git
    cd ARoute
    ```
 
